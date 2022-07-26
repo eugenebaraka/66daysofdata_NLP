@@ -32,4 +32,4 @@ I continued my journey by learning about WordNet and semantic similarity. WordNe
 Book:
 [Chapter 2. Natural Language Processing with Python](https://www.nltk.org/book/)
 
-![semantic similarity](./images/day3.PNG)
+![semantic similarity](./images/day3.png)
