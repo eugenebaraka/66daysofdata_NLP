@@ -15,3 +15,9 @@ Book:
 [Natural Language Processing with Python](https://www.nltk.org/book/)
 
 ![lexical richness](./images/day1.PNG)
+
+# Day 2 of 66daysofdata
+
+Today, I touched on the overview of NLP usecase, including speech recognition, machine translation, and textual entailment. I also learned that NLP still has a lot of limitations such as performing common-sense reasoning or drawing on world knowledge to perform tasks. Here's is my image of the day. It explains the spoken dialog system pipeline. Now I have a high level understanding of how my Google Assistant works! Can't wait for tomorrow!
+
+![spoken dialog system](./images/day2.PNG)
