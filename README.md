@@ -33,3 +33,12 @@ Book:
 [Chapter 2. Natural Language Processing with Python](https://www.nltk.org/book/)
 
 ![semantic similarity](./images/day3.png)
+
+# Day 4 of 66daysofdata
+
+Tokenization! This is a very important text pre-processing step in any NLP task. Tokenization is the process of breaking a text into a list of tokens (words and punctuations). I also learned how to parse HTML texts using BeautifulSoup. I practiced today's lesson by extracting the text from my latest blog post, parsing the HTML, extracting the text, and tokenizing it. See image below for the result.
+
+Book:
+[Chapter 3. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+![tokenization](./images/day4.PNG)
