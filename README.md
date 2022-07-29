@@ -48,3 +48,7 @@ Book:
 My next lesson was about data normalization, which includes stemming and lemmatization. Stemming is a process of reducing a word to its root by removing the affixes, while lemmatization reduces the word to its base form but making sure the resulting word has a meaning. I am yet to be acquainted with this process, so I will have to practive a bit more in the coming days. I also deviated from NLP a bit and practiced web scrapping using Requests and BeautifulSoup libraries. 
 
 ![normalization](./images/day5.png)
+
+# Day 6 of 66daysofdata
+
+Ever wondered how outlook email or gmail completes a sentence like "I am looking forward...."? Today, I read about N-grams. These are basically a sequence of n items in a given text or speech. According to the word that came before, the algorithm predicts which word has the highest probability of following. Multiple N-grams (like bigrams and above) are able to capture the context of which words are likely to follow the sequence either in speech or text. 
