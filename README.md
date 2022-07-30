@@ -51,4 +51,4 @@ My next lesson was about data normalization, which includes stemming and lemmati
 
 # Day 6 of 66daysofdata
 
-Ever wondered how outlook email or gmail completes a sentence like "I am looking forward...."? Today, I read about N-grams. These are basically a sequence of n items in a given text or speech. According to the word that came before, the algorithm predicts which word has the highest probability of following. Multiple N-grams (like bigrams and above) are able to capture the context of which words are likely to follow the sequence either in speech or text. 
+Ever wondered how outlook email or gmail completes a sentence like "I am looking forward to...."? Today, I read about N-grams. These are basically a sequence of n items in a given text or speech. According to the word that came before, the algorithm predicts which word has the highest probability of following. Multiple N-grams (like bigrams and above) are able to capture the context of which words are likely to follow the sequence either in speech or text. 
