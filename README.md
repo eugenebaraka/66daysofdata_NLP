@@ -39,7 +39,7 @@ Book:
 Tokenization! This is a very important text pre-processing step in any NLP task. Tokenization is the process of breaking a text into a list of tokens (words and punctuations). I also learned how to parse HTML texts using BeautifulSoup. I practiced today's lesson by extracting the text from my latest blog post, parsing the HTML, extracting the text, and tokenizing it. See image below for the result.
 
 Book:
-[Chapter 3. Natural Language Processing with Python](https://www.nltk.org/book/)
+[Chapter 2. Natural Language Processing with Python](https://www.nltk.org/book/)
 
 ![tokenization](./images/day4.PNG)
 
@@ -53,8 +53,21 @@ My next lesson was about data normalization, which includes stemming and lemmati
 
 Ever wondered how outlook email or gmail completes a sentence like "I am looking forward to...."? Today, I read about N-grams. These are basically a sequence of n items in a given text or speech. According to the word that came before, the algorithm predicts which word has the highest probability of following. Multiple N-grams (like bigrams and above) are able to capture the context of which words are likely to follow the sequence either in speech or text. 
 
+Book:
+[Chapter 3. Natural Language Processing with Python](https://www.nltk.org/book/)
+
 # Day 7 of 66daysofdata
 
 Today was my weekly revision day and I revised concepts like tokenization, stemming, lemmatization, and string formatting. I also touched on Regular expressions and how to use them to extract some information from a text. Been a great week so far and I am excited for the days ahead. 
 
 ![revision](./images/day7.png)
+
+Book:
+[Chapter 3. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+# Day 8 of 66daysofdata
+
+Today I read the fourth chapter of the NLP with Python book and talks about the fundamentals of writing good structure programs. I revised list comprehensions, mutable and immutable objects, and how to optimize your code using declarative programming.
+
+Book:
+[Chapter 4. Natural Language Processing with Python](https://www.nltk.org/book/)
