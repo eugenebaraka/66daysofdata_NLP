@@ -71,3 +71,10 @@ Today I read the fourth chapter of the NLP with Python book and talks about the 
 
 Book:
 [Chapter 4. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+# Day 9 of 66daysofdata
+
+Today, I read about Part-of-Speech Tagging, which is a process of categorizing words in correspondence with their part of the speech (e.g. verb, noun, adverb...) according to their meaning and their context in a sentence. Reading more about this process tomorrow!
+
+Book:
+[Chapter 4. Natural Language Processing with Python](https://www.nltk.org/book/)
