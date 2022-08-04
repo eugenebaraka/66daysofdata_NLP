@@ -78,3 +78,16 @@ Today, I read about Part-of-Speech Tagging, which is a process of categorizing w
 
 Book:
 [Chapter 4. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+
+# Day 10 of 66daysofdata
+
+In today's learning, I started a new chapter on classifying text. I read about **Multi-class classification** which is when a text input has multiple labels, **Open-class classification**, which is a case where a set of labels is not defined in advance and **Sequence classification** which is when a list of inputs are jointly classified. From here I focused on supervised classification where I practiced by training a model to classify sex by name using Naive Bayes Classifier. 
+
+Book:
+[Chapter 6. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+![revision](./images/day10.png)
+
+
+
