@@ -87,7 +87,7 @@ In today's learning, I started a new chapter on classifying text. I read about *
 Book:
 [Chapter 6. Natural Language Processing with Python](https://www.nltk.org/book/)
 
-![revision](./images/day10.png)
+![revision](./images/day10.png) 
 
 
 
