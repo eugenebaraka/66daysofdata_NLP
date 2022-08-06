@@ -47,6 +47,9 @@ Book:
 
 My next lesson was about data normalization, which includes stemming and lemmatization. Stemming is a process of reducing a word to its root by removing the affixes, while lemmatization reduces the word to its base form but making sure the resulting word has a meaning. I am yet to be acquainted with this process, so I will have to practive a bit more in the coming days. I also deviated from NLP a bit and practiced web scrapping using Requests and BeautifulSoup libraries. 
 
+Book:
+[Chapter 3. Natural Language Processing with Python](https://www.nltk.org/book/)
+
 ![normalization](./images/day5.png)
 
 # Day 6 of 66daysofdata
