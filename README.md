@@ -92,5 +92,11 @@ Book:
 
 ![revision](./images/day10.png) 
 
+# Day 11 of 66daysofdata
 
+Today, I kept my practice on Naive Bayes classification along with a slight introduction to Decision trees. I also learned how that you can make sure you reduce bias (or oversampling) in your model by not only reserving a test set but also a development test set. The dev test is used to develop a list of errors the model made in the classification, which in turn can be used to improve the features supplied to the model and improve its accuracy. 
 
+Book:
+[Chapter 6. Natural Language Processing with Python](https://www.nltk.org/book/)
+
+![dev-test](./images/day11.png)
